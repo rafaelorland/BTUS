@@ -3,5 +3,5 @@
  
 # Requisitos para funcionar Corretamente
 1. Python 3.8.7
-2. tkinter 23.0
-- pip install tkinter
+2. tkinter 0.1.0
+- pip install tk
